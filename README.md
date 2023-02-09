@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi, i'm Jonathan 👋
 
+- 🤖 I work on robotics, deep reinforcement learning, computer vision, and machine learning research
+- 🎓 I am completing my BS in Computer Science at UC San Diego
+- 🌱 I am currently learning about 3D Scene Representations and how they can be utilized for Robot Manipulation
+- 📫 How to reach me: [Twitter](https://twitter.com/jonzamora_ai) 🐦 and [E-Mail](mailto:jzamoraa@ucsd.edu) 📧
+- 😄 Pronouns: He/Him
+- ⚡ Fun Fact: I love Baymax from [Big Hero 6](https://www.imdb.com/title/tt2245084/)!
 <!--
 **jonzamora/jonzamora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
