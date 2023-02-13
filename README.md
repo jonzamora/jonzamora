@@ -1,7 +1,8 @@
 ### Hi, i'm Jonathan 👋
 
 - 🤖 I work on robotics, deep reinforcement learning, computer vision, and machine learning research
-- 🎓 I am completing my BS in Computer Science at UC San Diego
+- 🎓 I am completing my BS in Computer Science at [UC San Diego](https://ucsd.edu/)
+- ✌🏻 I will be attending the [University of Southern California](https://www.usc.edu/) for my MS in Computer Science
 - 🌱 I am currently learning about 3D Scene Representations and how they can be utilized for Robot Manipulation
 - 📫 How to reach me: [Twitter](https://twitter.com/jonzamora_ai) 🐦 and [E-Mail](mailto:jzamoraa@ucsd.edu) 📧
 - 😄 Pronouns: He/Him
