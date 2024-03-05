@@ -1,6 +1,6 @@
 ### Hi, i'm Jonathan 👋
 
-- 🤖 I work on Robotics, Deep Reinforcement Learning, Computer Vision, and Machine Learning research
+- 🤖 I work on Robot Learning, Computer Vision, and Machine Learning research
 - ✌🏻 I am currently attending the [University of Southern California](https://www.usc.edu/) for my MS in Computer Science
 - 🎓 I completed my BS in Computer Science at [UC San Diego](https://ucsd.edu/)
 - 🏫 I will be applying for PhD programs in Robotics and Computer Science for Fall 2025
