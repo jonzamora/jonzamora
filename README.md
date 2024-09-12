@@ -7,4 +7,4 @@
 - 😄 Pronouns: He/Him
 - ✍️ Blog: I have one, check it out [here](https://jonzamora.dev/blog/)
 - ⚡ Fun Fact: I love Baymax from [Big Hero 6](https://www.imdb.com/title/tt2245084/)!
-- 🔥 I will be applying to PhD programs in Computer Science for Fall 2025
+- 🔥 I am applying to PhD programs in Computer Science for Fall 2025
